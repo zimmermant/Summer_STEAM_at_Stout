@@ -30,7 +30,8 @@ The Patristocrat substitution cipher does not include spaces so you have a lot l
 
 Go here to try your hand at solving a message encoded by the Vigenere cipher: [The Black Chamber - Vigenere](https://www.simonsingh.net/The_Black_Chamber/vigenere_cracking_tool.html)
 
-
+# Quantum Tic Tac Toe
+[Quantum Tic Tac Toe](https://quantumtictactoe.com/play/)
 # Going Further
 
 Here are some resources if you want to learn more about cryptography on your own:
