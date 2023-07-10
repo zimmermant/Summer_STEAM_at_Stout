@@ -11,7 +11,7 @@ An Aristocrat substitution cipher includes spaces in the text.  Try example 1
 
 Once done, try example 2
 
-# [Greg Bard Cryptograms - Aristocrat Telegram Example 2](http://gregorybard.com/GeneratedFiles/0/B.html)
+[Greg Bard Cryptograms - Aristocrat Telegram Example 2](http://gregorybard.com/GeneratedFiles/0/B.html)
 
 Now move on to something a little more challenging.  For this one you are given a hint but not told where the words occur:
 
