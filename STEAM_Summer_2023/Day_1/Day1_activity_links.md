@@ -11,7 +11,7 @@ An Aristocrat substitution cipher includes spaces in the text.  Try example 1
 
 Once done, try example 2
 
-[Greg Bard Cryptograms - Aristocrat Telegram Example 2](http://gregorybard.com/GeneratedFiles/0/B.html)
+# [Greg Bard Cryptograms - Aristocrat Telegram Example 2](http://gregorybard.com/GeneratedFiles/0/B.html)
 
 Now move on to something a little more challenging.  For this one you are given a hint but not told where the words occur:
 
@@ -25,6 +25,11 @@ The Patristocrat substitution cipher does not include spaces so you have a lot l
 
 [Greg Bard Cryptograms - Patristocrat Medium with medium hints Example 1](http://gregorybard.com/GeneratedFiles/6/A.html)
 
+# Vigenere Cipher
+
+
+Go here to try your hand at solving a message encoded by the Vigenere cipher: [The Black Chamber - Vigenere](https://www.simonsingh.net/The_Black_Chamber/vigenere_cracking_tool.html)
+
 
 # Going Further
 
@@ -37,7 +42,7 @@ as resources for learning more about cryptography.
 * Simon Singh. The Code Book: How to Make It, Break It, Hack It, Crack It
 
 This book is one I referenced when creating these activities.  It includes a nice history of hidden writings.
-
+* The Black Chamber is a website by the author of The Code Book.  It contians information on many different ciphers: [The Black Chamber](Start here to figure out the key length [The Black Chamber - Vigenere](https://www.simonsingh.net/The_Black_Chamber/vigenere_cracking_tool.html)
 * [PigPen Cipher](https://crypto.interactive-maths.com/pigpen-cipher.html#act)
 
 Try your hand at the pigpen cipher which uses symbols instead of letters.
