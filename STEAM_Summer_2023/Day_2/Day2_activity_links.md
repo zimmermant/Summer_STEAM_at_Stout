@@ -23,6 +23,13 @@ This is a series of games to explore how quantum computers work.
 
 # Going Further
 
+# More Quander Games
+
+There are some more levels available at Quander Games but you need parental consent (not because of anything spicy, but it was part of an NSF research project which requires people under 18 to have parental consent)
+[Register for More Quander Game Levels Here](http://quander-consent.s3-website.us-east-2.amazonaws.com/)
+
+# Videos
+
 [Quantum Cryptography Explained - Physics Girl](https://youtu.be/UiJiXNEm-Go)
 
 The Physics Girl channel is a good source for well researched and well written videos on all topics related to physics.
