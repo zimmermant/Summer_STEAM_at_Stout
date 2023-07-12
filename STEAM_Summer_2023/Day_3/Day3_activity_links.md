@@ -19,8 +19,17 @@ Try to feed the Greenies photons using mirrors and beam splitters
 
 # Going Further
 
-## Complexity Zoo
+## Complexity Classes
+### Youtube videos on complexity classes
+
+Up and Atom is a good channel that gets the science and math right but at a reasonable level
+[P vs. NP - The Biggest Unsolved Problem in Computer Science](https://www.youtube.com/watch?v=EHp4FPyajKQ)
+Start here on your journey into complexity classes.  This is a nice introduction
+Also, you can earn a million dollars if you solve this problem so get cracking.
+
+### Complexity Zoo
 
 This website lists all the known complexity classes to date.  These are the three letter symbols we saw in The Qubit Game (e.g NP, RNC, BQP, etc)
+Start with the introductory essay and then move on to the petting zoo.
 
 [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
